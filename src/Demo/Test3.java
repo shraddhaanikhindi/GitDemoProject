@@ -1,6 +1,6 @@
 package Demo;
 
-public class Test2 {
+public class Test3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -11,7 +11,7 @@ public class Test2 {
 		
 		String hungry = "No";
 		
-		if (hungry == "no")
+		if (hungry == "yes")
 			System.out.println("eat something");
 		else {
 			System.out.println("Work");
